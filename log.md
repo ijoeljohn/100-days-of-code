@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: Aug 01, 2023(Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: maked a react portfolio project with html,css,js 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** struggled with css and styling and after refering some websites and tutorials I started to doing it and also I find it hard to make the website responsive for mobile and tablet 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** not done
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
